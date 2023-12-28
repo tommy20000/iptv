@@ -211,7 +211,6 @@ i成都,rtsp://182.139.235.40/PLTV/88888896/224/3221228398/647574497.smil
 Channel [V],http://192.168.31.10:4040/udp/239.93.0.157:2194
 Channel [V],http://192.168.31.10:4040/udp/239.93.1.7:2194
 星空卫视,http://192.168.31.10:4040/udp/239.93.0.156:2193
-香港卫视文旅,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
 TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新聞台,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 TVBS亚洲台,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
